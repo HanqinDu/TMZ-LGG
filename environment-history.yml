@@ -1,0 +1,16 @@
+name: TMZ-LGG
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - imbalanced-learn
+  - seaborn
+  - xgboost
+  - pydotplus
+  - dtreeviz
+  - requests
+  - lightgbm
+  - notebook
+  - scikit-optimize
+  - pyarrow
+
