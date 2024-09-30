@@ -1,3 +1,5 @@
+conda activate TMZ-LGG
+
 python src/evaluate_model.py \
 -i data/dataset/omics_1110/dm_miRNA.feather \
 -o data/prediction/XGB_miRNA.pickle \
