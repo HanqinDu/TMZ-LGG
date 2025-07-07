@@ -1,39 +1,7 @@
-<head>
-<style>
-    h1, h2, h3, h4, h5, h6, ul, ol, p {
-        font-family: 'Liberation Serif', serif;
-    }
-    .small {font-size: 5pt; color:#1b76d0;}
-    .modified {color:#1b76d0;}
-    .department{line-height:1.0; font-size:17pt; text-align:center;}
-    .maintitle{line-height:1.3; font-size:23pt; font-weight: bold; text-align:center;}
-    .announcement{line-height:2.8; font-size:17pt; font-weight: bold; text-align:center;}
-    .author{line-height:1; font-size:17pt; text-align:center;}
-    .annotation{line-height:1.1; font-size:13pt; font-weight: italic; text-align:center;}
-    .caption{line-height: 1.2; font-size: 11pt;}
-    .chapter{font-size:21pt; font-weight: bold; margin-top: 3.5em}
-    .pagecenter{font-size:30pt; font-weight: bold; margin-top: 10.0em; text-align:center;}
-    .transparent{color: rgba(0, 0, 0, 0); font-size:0pt}
-    p{font-size: 12pt; line-height: 1.5; text-align: justify; margin-bottom: 1.3em;}
-    h1{font-size:24pt; line-height:1.2; border-bottom: 0px; margin-bottom: 2.4em; margin-top: 1.4em}
-    h2{font-size:18pt; line-height:1.5; border-bottom: 0px; margin-top: 1.5em}
-    h3{font-size:14pt; line-height:1.2; margin-top: 1.2em}
-    ul, ol{font-size: 12pt;}
-    table{font-size: 11px;}
-    .footnote-line{font-size: 12px;text-align: justify;}
-    sup.md-footnote {
-        background-color: initial;
-        color: inherit;
-        margin-left: -3px; 
-        margin-right: -3px; 
-        font-size: 8pt;
-    }
-</style>
-</head>
 
 This repository contains code for reproducing the key results of the study:
 
-## ** Predicting temozolomide response in low-grade glioma patients with large-scale machine learning 
+## Predicting temozolomide response in low-grade glioma patients with large-scale machine learning 
 Hanqin Du¹, Chayanit Piyawajanusorn¹, Ghita Ghislat²\*, Pedro J. Ballester¹\*  
 ¹ Department of Bioengineering, Imperial College London, UK  
 ² Department of Life Sciences, Imperial College London, UK  
