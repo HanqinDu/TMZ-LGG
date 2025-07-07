@@ -13,8 +13,8 @@ Background: Temozolomide is the primary chemotherapeutic agent and first-line tr
 
 ### The provided code includes
 - `1_download_molecular_profile.sh`: Bash script for downloading raw data from TCGA and constructing it into an ML-ready dataset 
-- `2_train_miRNA.sh`: Bash script for training and evaluating the best-performed model in the study. (This will save the produce prediction files)
-- `3_analysis_performance.ipynb`: Jupyter notebook file that evaluates the prediction and calculates metrics such as MCC, ROC-AUC and PR-AUC. 
+- `2_train_miRNA.sh`: Bash script for training and evaluating the best-performed model in the study. (The prediction of each outer loop will be kept for further analysis)
+- `3_analysis_performance.ipynb`: Jupyter notebook file that evaluates the prediction file from `2_train_miRNA.sh` and calculates metrics such as MCC, ROC-AUC and PR-AUC. 
 
 
 
